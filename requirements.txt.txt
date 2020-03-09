@@ -1,0 +1,10 @@
+h5py==2.9.0
+numpy==1.17.1
+pandas==1.0.1
+scikit-learn==0.21.3
+matplotlib==3.1.1
+sklearn==0.0
+torch==1.0.1
+torchvision==0.4.0
+
+Python 3.7.4
