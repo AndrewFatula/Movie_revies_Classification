@@ -9,3 +9,4 @@ Trained model takes as input text of movie revie and outputs probability of that
 Test part of dataset has 25000 revies without ratings, result folder containts already classified by trained neural network test instances.
 
 Trained model and pipeline for trained model  you can find in ready_to_use and test it on your machine.
+Windows application based on this model can be found at https://drive.google.com/open?id=1oeHSAsen8ar5eYnkD-NCXMuauIbHpFlv.
